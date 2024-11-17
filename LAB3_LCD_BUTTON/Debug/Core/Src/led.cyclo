@@ -1,0 +1,3 @@
+../Core/Src/led.c:9:6:led_config	1
+../Core/Src/led.c:20:6:led_set_mode	7
+../Core/Src/led.c:46:6:led_clear	1
