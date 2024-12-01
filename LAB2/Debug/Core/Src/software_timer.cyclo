@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:15:6:timer_init	1
+../Core/Src/software_timer.c:19:6:set_timer	1
+../Core/Src/software_timer.c:25:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/software_timer.c:39:9:is_flag	2
